@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Welcome to Devops Class where we will take Project based Trainings</h2>
+<h1>Covid19-Sale is on</h1>  
+<h2>Welcome to trainingwale.com. Sale is on from 29 Sep 2020; Hurry !!</h2>  
 </body>
 </html>
